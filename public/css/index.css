@@ -41,13 +41,6 @@ hr {
   border: 1px white solid;
 }
 
-.section {
-  background-color: azure;
-  position: relative;
-  height: 100vh;
-  width: 100vw;
-}
-
 .box {
   position: relative;
   margin: auto;
@@ -72,6 +65,11 @@ hr {
     display: none;
   }
 }
+.contact-image {
+  width: 50vw;
+  height: 100vh;
+}
+
 /*!
  * Bootstrap  v5.2.2 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
